@@ -2,7 +2,7 @@
 
 Une application React SPA simple et élégante pour rechercher des transactions Lydia par label.
 
-## 🎨 Design
+##  Design
 
 L'application utilise les couleurs officielles de Lydia :
 - **Bleu principal** : `#1D4ED8`
@@ -11,13 +11,13 @@ L'application utilise les couleurs officielles de Lydia :
 
 ## ✨ Fonctionnalités
 
-- 🔍 **Recherche en temps réel** : Filtrage automatique des transactions par label
+-  **Recherche en temps réel** : Filtrage automatique des transactions par label
 - 📱 **Responsive** : Optimisé pour mobile et desktop
 - 🎭 **Animations fluides** : Transitions et effets visuels avec Framer Motion
 - 🎨 **Interface moderne** : Design soigné avec Chakra UI
 - 🔒 **Données non sensibles** : Affichage sécurisé des informations de transaction
 
-## 🚀 Installation
+##  Installation
 
 ### Prérequis
 - Node.js (version 16 ou supérieure)
@@ -105,7 +105,7 @@ L'application s'adapte automatiquement à toutes les tailles d'écran :
 - **Tablette** : Mise en page adaptée aux écrans moyens
 - **Desktop** : Expérience complète sur les grands écrans
 
-## 🎭 Animations
+##  Animations
 
 L'application inclut des animations subtiles :
 
@@ -114,7 +114,7 @@ L'application inclut des animations subtiles :
 - **Transitions fluides** : Animations lors des changements d'état
 - **Feedback visuel** : Retours visuels lors des interactions
 
-## 🔧 Technologies utilisées
+## Technologies utilisées
 
 - **React 18** : Framework JavaScript moderne
 - **Chakra UI** : Bibliothèque de composants UI
@@ -122,7 +122,7 @@ L'application inclut des animations subtiles :
 - **Vite** : Outil de build rapide
 - **JavaScript ES6+** : Syntaxe moderne
 
-## 📊 Données
+##  Données
 
 Les transactions sont stockées dans le fichier `transactions.json` et incluent :
 
@@ -143,7 +143,7 @@ Pour déployer l'application :
 
 2. **Déployer le dossier `dist`** sur votre serveur web préféré
 
-## 🤝 Contribution
+##  Contribution
 
 Pour contribuer au projet :
 
@@ -159,5 +159,5 @@ Ce projet est sous licence MIT.
 
 ---
 
-**Développé avec ❤️ pour Lydia**
+**Développé avec par abdou malick pour Lydia**
 # lydia-test
