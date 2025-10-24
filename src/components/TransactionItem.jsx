@@ -18,7 +18,7 @@ const TransactionItem = ({ transaction, index }) => {
       case 'pending':
         return 'yellow'
       case 'canceled':
-        return 'red'
+        return 'gray'
       default:
         return 'gray'
     }
@@ -168,7 +168,7 @@ const TransactionItem = ({ transaction, index }) => {
                 color="red.700" 
                 fontWeight="medium"
               >
-                ⚠️ {transaction.statusErrorDisplay}
+                 {transaction.statusErrorDisplay}
               </Text>
             </Box>
           </>
